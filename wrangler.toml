@@ -4,5 +4,5 @@ compatibility_date = "2024-10-03"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
-database_name = "newsnow-db"
-database_id = ""
+database_name = "news_now"
+database_id = "14013272-02aa-4e4b-b2b3-272dbc3ebfb8"
